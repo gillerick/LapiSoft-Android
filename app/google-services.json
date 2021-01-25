@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "696765201789",
+    "firebase_url": "https://lapisoft-970f7.firebaseio.com",
+    "project_id": "lapisoft-970f7",
+    "storage_bucket": "lapisoft-970f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696765201789:android:7bdda3d5a54cf28f9d6014",
+        "android_client_info": {
+          "package_name": "com.example.lapisoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696765201789-lbs3job1ief4jjog7b770d2942591992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1n9B6IgfOu-z13DuBV6RdHI2FzEaor6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696765201789-lbs3job1ief4jjog7b770d2942591992.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696765201789:android:80fa8cb99a59ebf29d6014",
+        "android_client_info": {
+          "package_name": "com.lapisoft.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696765201789-lbs3job1ief4jjog7b770d2942591992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1n9B6IgfOu-z13DuBV6RdHI2FzEaor6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696765201789-lbs3job1ief4jjog7b770d2942591992.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

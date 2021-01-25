@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LapiSoft</string>
+    <string name="model">Model</string>
+    <string name="colour">Colour</string>
+    <string name="serial_no">Serial</string>
+    <string name="screen_size">Size</string>
+    <string name="reg_no">Reg. No</string>
+    <string name="student_name">Student</string>
+    <string name="course_of_study">Course</string>
+    <string name="residence">Residence</string>
+    <string name="phonenumber">Contact</string>
+</resources>
